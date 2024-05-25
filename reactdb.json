@@ -1,6 +1,5 @@
-{
- "myitems": [
-		{
+[
+	{
 		    "id": 1,
 		    "checked": true,
 		    "item": "Tea"
@@ -16,5 +15,3 @@
 		    "item": "Juice"
 		}
 ]
-
-}
