@@ -2,16 +2,19 @@
 	{
 		    "id": 1,
 		    "checked": true,
-		    "item": "Tea"
+		    "item": "Tea",
+			"name": "Tea"
 		},
 		{
 		    "id": 2,
 		    "checked": false,
-		    "item": "Coffee"
+		    "item": "Coffee",
+			"name": "Coffee"
 		},
 		{
 		    "id": 3,
 		    "checked": false,
-		    "item": "Juice"
+		    "item": "Juice",
+			"name": "Juice"
 		}
 ]
